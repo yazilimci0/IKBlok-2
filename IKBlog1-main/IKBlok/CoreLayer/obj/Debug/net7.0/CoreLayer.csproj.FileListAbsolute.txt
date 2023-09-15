@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\IKBlok\CoreLayer\bin\Debug\net7.0\CoreLayer.deps.json
+C:\Users\user\source\repos\IKBlok\CoreLayer\bin\Debug\net7.0\CoreLayer.dll
+C:\Users\user\source\repos\IKBlok\CoreLayer\bin\Debug\net7.0\CoreLayer.pdb
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\CoreLayer.dll
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\refint\CoreLayer.dll
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\CoreLayer.pdb
+C:\Users\user\source\repos\IKBlok\CoreLayer\obj\Debug\net7.0\ref\CoreLayer.dll

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\IKBlok",
+    "\\IKBlok\\IKBlok",
+    "\\IKBlok\\IKBlok\\Controllers",
+    "\\IKBlok\\IKBlok\\Views",
+    "\\IKBlok\\IKBlok\\Views\\Login",
+    "\\IKBlok\\IKBlok\\Views\\SignUp"
+  ],
+  "SelectedNode": "\\IKBlok\\IKBlok\\Views\\SignUp\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
